@@ -11,5 +11,10 @@ namespace Bustos_Ej10_Actividad1
         {
 
         }
+
+        private void CrearCursoButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
